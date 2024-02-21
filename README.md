@@ -1,4 +1,4 @@
-# ABC-Store-Sales---Sample-sales-data-analysis-using-Power-BI
+# ABC Store Sales - Sample sales data analysis using Power BI
 
 ![Screenshot 2024-02-22 005132](https://github.com/raha86/ABC-Store-Sales---Sample-sales-data-analysis-using-Power-BI/assets/99750570/5d7e7345-a58d-408f-887e-837e31726022)
 
