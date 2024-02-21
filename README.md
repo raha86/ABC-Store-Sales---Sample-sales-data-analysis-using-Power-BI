@@ -1,5 +1,7 @@
 # ABC-Store-Sales---Sample-sales-data-analysis-using-Power-BI
 
+![Screenshot 2024-02-22 005132](https://github.com/raha86/ABC-Store-Sales---Sample-sales-data-analysis-using-Power-BI/assets/99750570/5d7e7345-a58d-408f-887e-837e31726022)
+
 # Problem Statement:
 ABC Store is facing challenges in understanding and analyzing its sales trend. The current lack of visibility into the sales data hinders the business's ability to make informed decisions and take proactive measures to drive growth. Without a comprehensive understanding of the sales trend, ABC Store struggles to identify patterns, anticipate customer demand, optimize inventory, and tailor marketing strategies effectively. As a result, the business is unable to capitalize on potential growth opportunities and achieve its revenue goals. To overcome these obstacles, ABC Store recognizes the need to implement a solution that provides a clear and insightful view of the sales trend, enabling data-driven decision-making and facilitating strategic actions to increase revenue and improve overall performance.
 
